@@ -1,0 +1,12 @@
+[1.485s] Traceback (most recent call last):
+  File "c:\python38\lib\site-packages\colcon_core\executor\__init__.py", line 91, in __call__
+    rc = await self.task(*args, **kwargs)
+  File "c:\python38\lib\site-packages\colcon_core\task\__init__.py", line 93, in __call__
+    return await task_method(*args, **kwargs)
+  File "c:\python38\lib\site-packages\colcon_ros\task\ament_python\build.py", line 105, in build
+    return await extension.build(additional_hooks=additional_hooks)
+  File "c:\python38\lib\site-packages\colcon_core\task\python\build.py", line 124, in build
+    temp_symlinks = self._symlinks_in_build(args, setup_py_data)
+  File "c:\python38\lib\site-packages\colcon_core\task\python\build.py", line 322, in _symlinks_in_build
+    os.symlink(src, dst)
+OSError: [WinError 1314] Dem Client fehlt ein erforderliches Recht: 'C:\\Users\\almed\\Desktop\\HTL\\4BHME\\Robotik\\ws_robu-main\\src\\robu\\setup.py' -> 'C:\\Users\\almed\\Desktop\\HTL\\4BHME\\Robotik\\ws_robu-main\\build\\robu\\setup.py'

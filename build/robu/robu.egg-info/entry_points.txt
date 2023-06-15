@@ -1,0 +1,8 @@
+[console_scripts]
+camera = robu.ex07_camera_pub:main
+hellorobu = robu.ex01_hellorobu:main
+oas = robu.ex03_obstacle_avoidance_simple:main
+remotectrl = robu.ex02_remotectrl:main
+remotectrl_listener = robu.ex02_remotectrl_listener:main
+wiimotectrl = robu.wiimotectrl:main
+

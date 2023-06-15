@@ -1,0 +1,48 @@
+running develop
+running egg_info
+creating robu.egg-info
+writing robu.egg-info\PKG-INFO
+writing dependency_links to robu.egg-info\dependency_links.txt
+writing entry points to robu.egg-info\entry_points.txt
+writing requirements to robu.egg-info\requires.txt
+writing top-level names to robu.egg-info\top_level.txt
+writing manifest file 'robu.egg-info\SOURCES.txt'
+reading manifest file 'robu.egg-info\SOURCES.txt'
+writing manifest file 'robu.egg-info\SOURCES.txt'
+running build_ext
+Creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages\robu.egg-link (link to .)
+Installing camera-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing camera.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing hellorobu-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing hellorobu.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing oas-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing oas.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing remotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing remotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing remotectrl_listener-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing remotectrl_listener.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing wiimotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+Installing wiimotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+
+Installed c:\users\almed\downloads\ws_robu-main (1)\ws_robu-main\build\robu
+running install_data
+creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index
+creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index
+creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index\packages
+copying resource\robu -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index\packages
+copying package.xml -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\cartographer.launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_nb_v1_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_nb_v2_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_nb_v3_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_tb_v1_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_tb_v2_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\dod_tb_v3_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\ex04_obstacle_avoidance_simple_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\ex05_mapping_rm_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\ex05_mapping_tb_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+copying launch\occupancy_grid.launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\rviz
+copying rviz\tb3_cartographer.rviz -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\rviz
+creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\config
+copying config\turtlebot3_lds_2d.lua -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\config

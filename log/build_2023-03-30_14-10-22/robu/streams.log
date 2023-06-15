@@ -1,0 +1,50 @@
+[3.016s] Invoking command in 'C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu': PYTHONPATH=C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\build --no-deps install_data
+[3.625s] running develop
+[3.938s] running egg_info
+[3.938s] creating robu.egg-info
+[3.938s] writing robu.egg-info\PKG-INFO
+[3.938s] writing dependency_links to robu.egg-info\dependency_links.txt
+[3.953s] writing entry points to robu.egg-info\entry_points.txt
+[3.953s] writing requirements to robu.egg-info\requires.txt
+[3.953s] writing top-level names to robu.egg-info\top_level.txt
+[3.953s] writing manifest file 'robu.egg-info\SOURCES.txt'
+[3.969s] reading manifest file 'robu.egg-info\SOURCES.txt'
+[3.969s] writing manifest file 'robu.egg-info\SOURCES.txt'
+[4.000s] running build_ext
+[4.000s] Creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages\robu.egg-link (link to .)
+[4.016s] Installing camera-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing camera.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing hellorobu-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing hellorobu.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing oas-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing oas.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing remotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing remotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.031s] Installing remotectrl_listener-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.047s] Installing remotectrl_listener.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.047s] Installing wiimotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.047s] Installing wiimotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[4.047s] 
+[4.047s] Installed c:\users\almed\downloads\ws_robu-main (1)\ws_robu-main\build\robu
+[4.047s] running install_data
+[4.047s] creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index
+[4.047s] creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index
+[4.047s] creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index\packages
+[4.047s] copying resource\robu -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\ament_index\resource_index\packages
+[4.047s] copying package.xml -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.047s] copying launch\cartographer.launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.047s] copying launch\dod_nb_v1_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.047s] copying launch\dod_nb_v2_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.047s] copying launch\dod_nb_v3_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\dod_tb_v1_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\dod_tb_v2_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\dod_tb_v3_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\ex04_obstacle_avoidance_simple_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\ex05_mapping_rm_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\ex05_mapping_tb_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] copying launch\occupancy_grid.launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[4.063s] creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\rviz
+[4.063s] copying rviz\tb3_cartographer.rviz -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\rviz
+[4.078s] creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\config
+[4.078s] copying config\turtlebot3_lds_2d.lua -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu\config
+[4.125s] Invoked command in 'C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu' returned '0': PYTHONPATH=C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\build --no-deps install_data

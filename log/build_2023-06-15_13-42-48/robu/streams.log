@@ -1,0 +1,28 @@
+[1.922s] Invoking command in 'C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu': PYTHONPATH=C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu\build --no-deps install_data
+[2.500s] running develop
+[2.812s] running egg_info
+[2.812s] writing robu.egg-info\PKG-INFO
+[2.812s] writing dependency_links to robu.egg-info\dependency_links.txt
+[2.812s] writing entry points to robu.egg-info\entry_points.txt
+[2.812s] writing requirements to robu.egg-info\requires.txt
+[2.828s] writing top-level names to robu.egg-info\top_level.txt
+[2.828s] reading manifest file 'robu.egg-info\SOURCES.txt'
+[2.844s] writing manifest file 'robu.egg-info\SOURCES.txt'
+[2.844s] running build_ext
+[2.844s] Creating C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install\Lib\site-packages\robu.egg-link (link to .)
+[2.844s] Installing camera-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing camera.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing hellorobu-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing hellorobu.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing oas-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing oas.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing remotectrl-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing remotectrl.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.859s] Installing remotectrl_listener-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.875s] Installing remotectrl_listener.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.875s] Installing wiimotectrl-script.py script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.875s] Installing wiimotectrl.exe script to C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install/lib/robu
+[2.875s] 
+[2.875s] Installed c:\users\almed\desktop\htl\4bhme\robotik\ws_robu-main\build\robu
+[2.875s] running install_data
+[2.906s] Invoked command in 'C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu' returned '0': PYTHONPATH=C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Desktop\HTL\4BHME\Robotik\ws_robu-main\build\robu\build --no-deps install_data

@@ -1,0 +1,29 @@
+[1.875s] Invoking command in 'C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu': PYTHONPATH=C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\build --no-deps install_data
+[2.515s] running develop
+[2.843s] running egg_info
+[2.843s] writing robu.egg-info\PKG-INFO
+[2.843s] writing dependency_links to robu.egg-info\dependency_links.txt
+[2.843s] writing entry points to robu.egg-info\entry_points.txt
+[2.843s] writing requirements to robu.egg-info\requires.txt
+[2.843s] writing top-level names to robu.egg-info\top_level.txt
+[2.859s] reading manifest file 'robu.egg-info\SOURCES.txt'
+[2.875s] writing manifest file 'robu.egg-info\SOURCES.txt'
+[2.875s] running build_ext
+[2.875s] Creating C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages\robu.egg-link (link to .)
+[2.906s] Installing camera-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing camera.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing hellorobu-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing hellorobu.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing oas-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing oas.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.906s] Installing remotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] Installing remotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] Installing remotectrl_listener-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] Installing remotectrl_listener.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] Installing wiimotectrl-script.py script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] Installing wiimotectrl.exe script to C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install/lib/robu
+[2.921s] 
+[2.921s] Installed c:\users\almed\downloads\ws_robu-main (1)\ws_robu-main\build\robu
+[2.921s] running install_data
+[2.921s] copying launch\ex04_obstacle_avoidance_simple_launch.py -> C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\share\robu
+[2.968s] Invoked command in 'C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu' returned '0': PYTHONPATH=C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\prefix_override;C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\install\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py develop --editable --build-directory C:\Users\almed\Downloads\ws_robu-main (1)\ws_robu-main\build\robu\build --no-deps install_data

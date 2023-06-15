@@ -1,0 +1,18 @@
+[0.000000] (-) TimerEvent: {}
+[0.000000] (robu) JobQueued: {'identifier': 'robu', 'dependencies': OrderedDict()}
+[0.000000] (robu) JobStarted: {'identifier': 'robu'}
+[0.110000] (-) TimerEvent: {}
+[0.219000] (-) TimerEvent: {}
+[0.328000] (-) TimerEvent: {}
+[0.438000] (-) TimerEvent: {}
+[0.547000] (-) TimerEvent: {}
+[0.656000] (-) TimerEvent: {}
+[0.766000] (-) TimerEvent: {}
+[0.875000] (-) TimerEvent: {}
+[1.000000] (-) TimerEvent: {}
+[1.110000] (-) TimerEvent: {}
+[1.219000] (-) TimerEvent: {}
+[1.328000] (-) TimerEvent: {}
+[1.391000] (robu) StderrLine: {'line': b'Traceback (most recent call last):\n  File "c:\\python38\\lib\\site-packages\\colcon_core\\executor\\__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n  File "c:\\python38\\lib\\site-packages\\colcon_core\\task\\__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n  File "c:\\python38\\lib\\site-packages\\colcon_ros\\task\\ament_python\\build.py", line 105, in build\n    return await extension.build(additional_hooks=additional_hooks)\n  File "c:\\python38\\lib\\site-packages\\colcon_core\\task\\python\\build.py", line 124, in build\n    temp_symlinks = self._symlinks_in_build(args, setup_py_data)\n  File "c:\\python38\\lib\\site-packages\\colcon_core\\task\\python\\build.py", line 322, in _symlinks_in_build\n    os.symlink(src, dst)\nOSError: [WinError 1314] Dem Client fehlt ein erforderliches Recht: \'C:\\\\Users\\\\almed\\\\Desktop\\\\HTL\\\\4BHME\\\\Robotik\\\\ws_robu-main\\\\src\\\\robu\\\\setup.py\' -> \'C:\\\\Users\\\\almed\\\\Desktop\\\\HTL\\\\4BHME\\\\Robotik\\\\ws_robu-main\\\\build\\\\robu\\\\setup.py\'\n'}
+[1.406000] (robu) JobEnded: {'identifier': 'robu', 'rc': 1}
+[1.422000] (-) EventReactorShutdown: {}
